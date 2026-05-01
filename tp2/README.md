@@ -42,19 +42,24 @@ Justifiez vos choix en vous référant à votre persona.
 
 ## Critères d'évaluation
 
-- Les consignes sont respectées.
-- Le document FigJam est bien organisé.
-- Les énoncés de problème incluent les [éléments requis].
-- Les objectifs sont exploitables et ils découlent des problèmes.
-- Le persona représente le public cible et il permet de justifier les
-  choix de conception.
-- Les maquettes sont assez rudimentaires pour permettre une itération
-  rapide.
-- L'emplacement et la taille des éléments sont rattachés au but de la
-  page et à l'objectif.
-- Chaque page contient au maximum une ou deux invitations à l'action.
-- Les maquettes proposent des solutions suffisamment différentes.
-- La présentation est soignée et bien structurée.
-- La charge de travail est divisée également.
+- Qualité des maquettes [5 points]
+  - Le document FigJam est bien organisé.
+  - Les maquettes sont assez rudimentaires pour permettre une itération
+    rapide.
+  - L'emplacement et la taille des éléments sont rattachés au but de la
+    page et à l'objectif.
+  - Chaque page contient au maximum une ou deux invitations à l'action.
+  - Les maquettes proposent des solutions suffisamment différentes.
+
+- Qualité des explications [5 points]
+  - Les énoncés de problème incluent les [éléments requis].
+  - Les objectifs sont exploitables et ils découlent des problèmes.
+  - Le persona représente le public cible et il permet de justifier les
+    choix de conception.
+  - La présentation est soignée et bien structurée.
+
+Outre ces critères, vous pouvez être pénalisé·es si votre travail ne
+respecte pas les consignes, ou si la charge de travail n'est pas divisée
+également.
 
 [éléments requis]: https://www.are.na/block/45059821
