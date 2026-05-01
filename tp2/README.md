@@ -1,6 +1,6 @@
 # TP2 : Maquette conceptuelle
 
-> Remise : 5 mai\
+> Remise : 15 mai\
 > Modalité : en équipe de 2
 
 Tout au long de la session, vous travaillerez en équipe de deux à la
